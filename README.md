@@ -4,7 +4,7 @@ My name Vịnh Ngô. Sometimes I am Kiều Phong. But all is a Software Engineri
 
 Current main focus is develope a great mobile app by #Flutter and #Android.
 
-I’m currently learning more about AI. I want to apply more AI to my work and my life to get everything is better.
+I’m currently learning more about AI. I want to apply more AI to my work and my life to make everything is better.
 
 
  
