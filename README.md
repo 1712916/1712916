@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name Vịnh Ngô. Sometimes I am Kiều Phong. But all is a Software Enginering.
+
+Current main focus is develope a great mobile app by #Flutter and #Android.
+
+I’m currently learning more about AI. I want to apply more AI to my work and my life to get everything is better.
+
+
+ 
+
+
+
 <!--
 **1712916/1712916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
